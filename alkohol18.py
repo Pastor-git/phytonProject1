@@ -1,0 +1,1 @@
+wiek = input("podaj swój wiek i zapłać lub nie: ")
