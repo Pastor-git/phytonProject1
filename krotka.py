@@ -1,3 +1,4 @@
-lista = (1,2,4,5)
+listaczlikrotka = (1,2,4,5)
 tuple#
-print(type(lista))
+print(type(listaczlikrotka))
+listaprawdziwa=[1,2,3]
